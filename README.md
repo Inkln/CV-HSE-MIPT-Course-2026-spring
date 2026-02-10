@@ -19,13 +19,13 @@
 ### Ассистенты
  
 * Бетев Иван
-  * github: -
+  * github: [betyavan](https://github.com/betyavan)
   * telegram: @betyavan
 * Рустам Гаунов
-  * github: -
+  * github: [RusProgerist](https://github.com/RusProgerist)
   * telegram: @Gaunr07
-* ---
-  * github: -
+* Леонтьев Константин
+  * github: [Samuray-228](https://github.com/Samuray-228)
   * telegram: @leokostyan
 
 ## Правила курса
