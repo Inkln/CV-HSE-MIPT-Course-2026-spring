@@ -4,11 +4,11 @@ DDPM Basics [![Open In Colab](https://colab.research.google.com/assets/colab-bad
 
 Rectified Flow Basics [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Inkln/CV-HSE-MIPT-Course-2026-spring/blob/main/lesson_10/rectified-flow-basics.ipynb)
 
-LoRA Finetune Practice [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Inkln/CV-HSE-MIPT-Course-2026-spring/blob/main/lesson_10/lora-train.ipynb)
-
 
 # Homework
 
 Описано в [hw.ipynb](./hw.ipynb)
+
+**Note** если хотите получить доп баллы, вы можете выполнить [hw_extra.ipynb](./hw_extra.ipynb). Дедлайн у обоих ноутбуков общий
 
 *Soft-deadline* 15.05.26
