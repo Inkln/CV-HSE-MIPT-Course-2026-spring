@@ -6,3 +6,9 @@ Rectified Flow Basics [![Open In Colab](https://colab.research.google.com/assets
 
 LoRA Finetune Practice [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Inkln/CV-HSE-MIPT-Course-2026-spring/blob/main/lesson_10/lora-train.ipynb)
 
+
+# Homework
+
+Описано в [hw.ipynb](./hw.ipynb)
+
+*Soft-deadline* 15.05.26
