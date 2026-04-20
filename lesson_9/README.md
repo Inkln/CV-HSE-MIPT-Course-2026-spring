@@ -8,4 +8,6 @@ Switti example [![Open In Colab](https://colab.research.google.com/assets/colab-
 
 ### Домашнее задание
 
-TBD
+Находится в [hw.ipynb](hw.ipynb)
+
+*Soft-deadline*: 15.05.26 (23.59 msk)
