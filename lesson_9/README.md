@@ -10,4 +10,4 @@ Switti example [![Open In Colab](https://colab.research.google.com/assets/colab-
 
 Находится в [hw.ipynb](hw.ipynb)
 
-*Soft-deadline*: 15.05.26 (23.59 msk)
+*Soft-deadline*: 17.05.26 (23.59 msk)
