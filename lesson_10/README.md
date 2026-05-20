@@ -11,4 +11,4 @@ Rectified Flow Basics [![Open In Colab](https://colab.research.google.com/assets
 
 **Note** если хотите получить доп баллы, вы можете выполнить [hw_extra.ipynb](./hw_extra.ipynb). Дедлайн у обоих ноутбуков общий
 
-*Soft-deadline* 15.05.26
+*Soft-deadline* 17.05.26, 23:59
